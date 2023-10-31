@@ -14,7 +14,7 @@ The Module 20 Challenge uses various techniques to train and evaluate a model ba
 - Generate a confusion matrix.
 - Generate a classification report.
 
-***Credit Risk Analysis Report***
+***Credit Risk Analysis Report*** [Analysis Report](credit_risk_analysis.md)
 - Provide an overview that explains the purpose of this analysis.
 - Using a bulleted list, describe the accuracy, precision, and recall scores of the machine learning model.
 - Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
